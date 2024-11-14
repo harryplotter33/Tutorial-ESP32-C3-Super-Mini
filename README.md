@@ -1,7 +1,5 @@
 # Tutorial: ESP32-C3 Super Mini
 
-![cover image](/images/main.png)
-
 Welcome to the comprehensive guide for the ESP32-C3 Super Mini board. This repository includes everything you need to get started and work with the ESP32-C3 Super Mini.
 
 ## Table of Contents
